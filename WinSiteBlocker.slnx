@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WinSiteBlocker/WinSiteBlocker.vcxproj" Id="5d5ee9df-66db-4203-847a-d33d0fdcf908" />
+</Solution>
